@@ -1,0 +1,40 @@
+{
+	"title" : "Experience",
+	"experience" : [
+		{
+			"timeperiod" : "Jun 2020 - May 2021",
+			"company" : "Finaccel",
+			"website": "https://finaccel.co",
+			"description" : "Sr Infrastructure Engineer. "
+		},
+		{
+			"timeperiod" : "Mar 2018 - May 2020",
+			"company" : "Travlr",
+			"website": "https://www.10travlr.com.au",
+			"description" : "Sr DevOps Engineer. "
+		},
+		{
+			"timeperiod" : "Nov 2017 - Feb 2018",
+			"company" : "-",
+			"description" : "Solo trip arround SEA country and did some volunteering job."
+		},
+		{
+			"timeperiod" : "Nov 2015 - Oct 2017",
+			"company" : "Midtrans",
+			"website": "https://midtrans.com",
+			"description" : "Software Engineer - Infrastructure. "
+		},
+		{
+			"timeperiod" : "Sept 2014 - Oct 2015",
+			"company" : "Icehouse",
+			"website": "https://icehousecorp.com",
+			"description" : "System Engineer. "
+		},
+		{
+			"timeperiod" : "June 2014 - August 2014",
+			"company" : "Allegro",
+			"website": "https://www.allegrodev.com",
+			"description" : "Software Engineer Internship. "
+		}
+	]
+}

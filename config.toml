@@ -1,0 +1,4 @@
+baseURL = "https://web-profile-inky.vercel.app/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "hugo-uilite"
