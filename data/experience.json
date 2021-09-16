@@ -1,40 +1,51 @@
 {
-	"title" : "Experience",
+	"title" : "",
 	"experience" : [
 		{
 			"timeperiod" : "Jun 2020 - May 2021",
 			"company" : "Finaccel",
 			"website": "https://finaccel.co",
-			"description" : "Sr Infrastructure Engineer. "
+			"position": "Senior DevOps Engineer",
+			"description" : "FinAccel is a financial technology company with Kredivo “Buy now, Pay later” as the flagship product. "
 		},
 		{
 			"timeperiod" : "Mar 2018 - May 2020",
 			"company" : "Travlr",
 			"website": "https://www.10travlr.com.au",
-			"description" : "Sr DevOps Engineer. "
-		},
-		{
-			"timeperiod" : "Nov 2017 - Feb 2018",
-			"company" : "-",
-			"description" : "Solo trip arround SEA country and did some volunteering job."
+			"position": "Senior DevOps Engineer",
+			"description" : "Travlr is travel platform that enabling travellers to inspired, discover, plan, book and share their holidays on one platform. "
 		},
 		{
 			"timeperiod" : "Nov 2015 - Oct 2017",
 			"company" : "Midtrans",
 			"website": "https://midtrans.com",
-			"description" : "Software Engineer - Infrastructure. "
+			"position": "Software Engineer, Infrastructure",
+			"description" : "Midtrans provides complete payment solutions tailored for the business, simplify the payments process. "
 		},
 		{
 			"timeperiod" : "Sept 2014 - Oct 2015",
 			"company" : "Icehouse",
 			"website": "https://icehousecorp.com",
-			"description" : "System Engineer. "
+			"position": "System Engineer",
+			"description" : "Ice House is a mobile development firm which applies breakthrough technology to build innovative user experiences."
 		},
 		{
 			"timeperiod" : "June 2014 - August 2014",
-			"company" : "Allegro",
+			"company" : "JustCommodity",
 			"website": "https://www.allegrodev.com",
-			"description" : "Software Engineer Internship. "
+			"position": "Software Engineer Internship",
+			"description" : "JustCommodity, now Allegro, an enterprise CTRM software and advanced analytics empower companies on commodities area. "
+		},
+		{
+			"timeperiod" : "Sept 2011 - Sept 2014",
+			"company" : "Del Institute of Technology",
+			"website": "https://www.del.ac.id",
+			"description" : "Network Management, class of 2011. "
+		},
+		{
+			"timeperiod" : "June 2007 - May 2010",
+			"company" : "SMAN 2 Kisaran",
+			"description" : "Senior high school, class of 2010. "
 		}
 	]
 }
